@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MarsRoverControl.API.Controllers.RoversController",
+    "Method": "Post",
+    "RelativePath": "api/Rovers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MarsRoverControl.API.DTOs.RoverCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

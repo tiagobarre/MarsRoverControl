@@ -1,0 +1,11 @@
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\bin\Debug\net8.0\MarsRoverControl.Domain.deps.json
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\bin\Debug\net8.0\MarsRoverControl.Domain.dll
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\bin\Debug\net8.0\MarsRoverControl.Domain.pdb
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\MarsRoverControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\MarsRoverControl.Domain.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\MarsRoverControl.Domain.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\MarsRoverControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\MarsRoverControl.Domain.dll
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\refint\MarsRoverControl.Domain.dll
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\MarsRoverControl.Domain.pdb
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Domain\obj\Debug\net8.0\ref\MarsRoverControl.Domain.dll

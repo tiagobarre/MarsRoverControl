@@ -1,0 +1,15 @@
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\bin\Debug\net8.0\MarsRoverControl.Application.deps.json
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\bin\Debug\net8.0\MarsRoverControl.Application.dll
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\bin\Debug\net8.0\MarsRoverControl.Application.pdb
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\bin\Debug\net8.0\MarsRoverControl.Domain.dll
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\bin\Debug\net8.0\MarsRoverControl.Domain.pdb
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRoverControl.Application.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRoverControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRoverControl.Application.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRoverControl.Application.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRoverControl.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRove.E78CF8D7.Up2Date
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRoverControl.Application.dll
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\refint\MarsRoverControl.Application.dll
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\MarsRoverControl.Application.pdb
+C:\Users\Tiago\source\repos\MarsRoverControl\MarsRoverControl\MarsRoverControl.Application\obj\Debug\net8.0\ref\MarsRoverControl.Application.dll

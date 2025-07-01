@@ -1,0 +1,66 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MarsRoverControl.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Rovers": {
+      "post": {
+        "tags": [
+          "Rovers"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RoverCommandRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RoverCommandRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RoverCommandRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "RoverCommandRequest": {
+        "type": "object",
+        "properties": {
+          "startX": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "startY": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "direction": {
+            "type": "string",
+            "nullable": true
+          },
+          "commands": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
