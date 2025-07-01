@@ -17,7 +17,7 @@ COMO RODAR O PROJETO
 ----------------------------------
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/MarsRoverControl.API.git
+   git clone https://github.com/tiagobarre/MarsRoverControl.git
    cd MarsRoverControl.API
 
 2. Restaure os pacotes:
@@ -118,5 +118,6 @@ FUTURAS MELHORIAS
 AUTOR
 ----------------------------------
 
-Desenvolvido por [Seu Nome]
-Engenheiro de Software e Arquiteto .NET
+Desenvolvido por Tiago Barreto
+Desenvolvedor .NET
+Auxílio de IA em alguns passos (ChatGPT)
